@@ -63,7 +63,7 @@
         "typescript": "^3.9.9",
         "unique-names-generator": "^2.0.2",
         "universal-cookie": "^3.1.0",
-        "validator": "^10.11.0",
+        "validator": "^13.7.0",
         "zingchart": "^2.9.2",
         "zingchart-react": "^1.0.8"
     },
